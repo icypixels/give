@@ -1,0 +1,757 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-02 11:14+0200\n"
+"PO-Revision-Date: 2013-02-02 11:14+0200\n"
+"Last-Translator: Icy Pixels <theicypixels@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:25
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: archive.php:29 archive.php:31 archive.php:33
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:35
+msgid "All posts by"
+msgstr ""
+
+#: archive.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:60 comments.php:31 comments.php:113
+#: functions/widget-recentposts.php:103
+msgid "<span class=\"icon-comment-alt\"></span> 0"
+msgstr ""
+
+#: archive.php:60 comments.php:31 comments.php:113
+#: functions/widget-recentposts.php:103
+msgid "<span class=\"icon-comment\"></span> 1"
+msgstr ""
+
+#: archive.php:60 comments.php:31 comments.php:113
+#: functions/widget-recentposts.php:103
+msgid "<span class=\"icon-comments\"></span> %"
+msgstr ""
+
+#: archive.php:83 post-standard.php:5 search.php:50 single.php:27
+#: template-blog.php:65 functions/widget-recentposts.php:85
+#: functions/widget-recentposts.php:115 includes/widget-post-standard.php:5
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: archive.php:92 index.php:39 search.php:58 template-blog.php:74
+msgid "Read more"
+msgstr ""
+
+#: archive.php:95 single.php:36 template-blog.php:77
+msgid "Pages:"
+msgstr ""
+
+#: archive.php:113 index.php:55 template-blog.php:95
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: archive.php:114 index.php:56 template-blog.php:96
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: archive.php:123
+#, php-format
+msgid "<h2>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr ""
+
+#: archive.php:126
+#, php-format
+msgid "<h2>Sorry, but there aren't any posts tagged %s yet.</h2>"
+msgstr ""
+
+#: archive.php:129
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr ""
+
+#: archive.php:133
+#, php-format
+msgid "<h2>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr ""
+
+#: archive.php:135
+msgid "<h2>No posts found.</h2>"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:43 comments.php:124
+msgid "Write us your thoughts about this post. Be kind & Play nice."
+msgstr ""
+
+#: comments.php:66
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: comments.php:100
+msgid "Comments are closed now."
+msgstr ""
+
+#: comments.php:133
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:148
+msgid "Leave a reply."
+msgstr ""
+
+#: comments.php:148
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: comments.php:155
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: comments.php:161
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:161
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:183
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:18
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:365
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: functions.php:370
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:370
+msgid "[Edit]"
+msgstr ""
+
+#: functions.php:375
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:16
+msgid "Search Results"
+msgstr ""
+
+#: index.php:67 page.php:53 single.php:54 template-archives.php:84
+#: template-blog.php:107 template-fullwidth.php:60 template-home.php:85
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: index.php:73 template-blog.php:113
+msgid "Sorry, but your search lead to no results."
+msgstr ""
+
+#: page.php:57 single.php:58 template-archives.php:88
+#: template-fullwidth.php:64 template-home.php:89
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: search.php:14
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:76
+msgid "Your search did not match any entries"
+msgstr ""
+
+#: search.php:80
+msgid "You searched: "
+msgstr ""
+
+#: search.php:81
+msgid "Suggestions:"
+msgstr ""
+
+#: search.php:83
+msgid "Make sure all words are spelled correctly."
+msgstr ""
+
+#: search.php:84
+msgid "Try different keywords."
+msgstr ""
+
+#: search.php:85
+msgid "Try more general keywords."
+msgstr ""
+
+#: template-archives.php:28
+msgid "Latest 10 posts"
+msgstr ""
+
+#: template-archives.php:37
+msgid "Last 15 days"
+msgstr ""
+
+#: template-archives.php:45
+msgid "Archives by month:"
+msgstr ""
+
+#: template-archives.php:52
+msgid "Archives by week:"
+msgstr ""
+
+#: template-archives.php:57
+msgid "Archives by subjects:"
+msgstr ""
+
+#: template-blog.php:33
+msgid "Latest Posts"
+msgstr ""
+
+#: admin/admin-functions.php:82
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin-functions.php:91
+msgid "Theme Customizer"
+msgstr ""
+
+#: admin/admin-interface.php:647
+msgid "All Categories"
+msgstr ""
+
+#: admin/admin-interface.php:648
+msgid "No Categories"
+msgstr ""
+
+#: admin/admin-interface.php:692
+msgid "All "
+msgstr ""
+
+#: admin/admin-interface.php:693
+msgid "No "
+msgstr ""
+
+#: events/ecp-single-template.php:30
+msgid "Edit"
+msgstr ""
+
+#: events/events-list-load-widget-display.php:53
+msgid "All Day"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:164
+#: functions/theme-require-plugins.php:83
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:165
+#: functions/theme-require-plugins.php:84
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:166
+#: functions/theme-require-plugins.php:85
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:178
+#: functions/class-tgm-plugin-activation.php:490
+#: functions/theme-require-plugins.php:97
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:179
+#: functions/class-tgm-plugin-activation.php:1846
+#: functions/theme-require-plugins.php:98
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:517
+#: functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/theme-metabox.php:14
+msgid "Post Gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:15
+msgid "Insert your pictures here."
+msgstr ""
+
+#: functions/theme-metabox.php:21
+msgid "Gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:24
+msgid "Upload to Gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:33
+msgid "Video Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:34
+msgid "These settings enable you to embed videos into your posts."
+msgstr ""
+
+#: functions/theme-metabox.php:40
+msgid "Embedded Code"
+msgstr ""
+
+#: functions/theme-metabox.php:41
+msgid ""
+"If you are using Youtube or Vimeo, paste the embed code here. Width is best "
+"at 900px with any height.<br><br> This field will override the above."
+msgstr ""
+
+#: functions/theme-metabox.php:53
+msgid "Page Settings"
+msgstr ""
+
+#: functions/theme-metabox.php:54
+msgid ""
+"Set a title, a description and upload an image for the page. Images must be "
+"1920px by any height."
+msgstr ""
+
+#: functions/theme-metabox.php:60
+msgid "Page Title"
+msgstr ""
+
+#: functions/theme-metabox.php:61
+msgid "Type in the desired page title."
+msgstr ""
+
+#: functions/theme-metabox.php:66
+msgid "Page Subtitle"
+msgstr ""
+
+#: functions/theme-metabox.php:67
+msgid "Type in the desired page subtitle."
+msgstr ""
+
+#: functions/theme-metabox.php:150
+msgid "Insert"
+msgstr ""
+
+#: functions/theme-metabox.php:188
+msgid "Create Featured Gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:196 functions/theme-metabox.php:204
+msgid "Edit Featured Gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:241
+msgid "Save Featured Gallery"
+msgstr ""
+
+#: functions/theme-metabox.php:251
+msgid "Saving..."
+msgstr ""
+
+#: functions/theme-metabox.php:317 functions/theme-metabox.php:319
+msgid "Edit Gallery"
+msgstr ""
+
+#: functions/theme-options.php:69
+msgid "General Settings"
+msgstr ""
+
+#: functions/theme-options.php:73
+msgid ""
+"Welcome to the Theme Options panel! Thanks for purchasing a <a href=\"http://"
+"www.icypixels.com/\">Icy Pixels</a> theme. Before asking any questions, make "
+"sure you read the documentation first. If you still have any questions, fill "
+"in a ticket at <a href=\"http://icypixels.ticksy.com/\">IcyPixels.com "
+"Support</a>. "
+msgstr ""
+
+#: functions/theme-options.php:76
+msgid "Custom Favicon"
+msgstr ""
+
+#: functions/theme-options.php:77
+msgid ""
+"Upload a 16px x 16px .png/.gif image that will represent your site's favicon."
+msgstr ""
+
+#: functions/theme-options.php:82
+msgid "Custom Logo"
+msgstr ""
+
+#: functions/theme-options.php:83
+msgid ""
+"Upload a logo to your theme, or specify the image address of your online "
+"logo. (http://example.com/logo.png). Standard logo size: 170x60 px . Retina "
+"logo size: 340x120 px"
+msgstr ""
+
+#: functions/theme-options.php:88
+msgid "Enable Donate Button"
+msgstr ""
+
+#: functions/theme-options.php:89
+msgid "Tick to enable the Donate Button."
+msgstr ""
+
+#: functions/theme-options.php:94
+msgid "Donate Link"
+msgstr ""
+
+#: functions/theme-options.php:95
+msgid ""
+"Type in the link the user will be redirected to when clicking on the donate "
+"button."
+msgstr ""
+
+#: functions/theme-options.php:100
+msgid "Blog Category"
+msgstr ""
+
+#: functions/theme-options.php:101
+msgid "Choose the category that contains all your blog posts."
+msgstr ""
+
+#: functions/theme-options.php:106
+msgid "Tracking Code"
+msgstr ""
+
+#: functions/theme-options.php:107
+msgid ""
+"Paste in your Analytics (Google or other) tracking code in here. It will be "
+"inserted just before the closing body tag of your theme."
+msgstr ""
+
+#: functions/theme-options.php:112
+msgid "FeedBurner URL"
+msgstr ""
+
+#: functions/theme-options.php:113
+msgid ""
+"Enter your full FeedBurner URL (or any other preferred feed URL) if you wish "
+"to use FeedBurner over the standard WordPress Feed e.g. http://feeds."
+"feedburner.com/yoururlhere"
+msgstr ""
+
+#: functions/theme-options.php:120
+msgid "Styling Options"
+msgstr ""
+
+#: functions/theme-options.php:124
+msgid "Skin selector"
+msgstr ""
+
+#: functions/theme-options.php:125
+msgid ""
+"NOTICE: Use skins only if you haven't selected a background and highlight "
+"color using the Theme Customizer. Do not use Skins in combo with the Theme "
+"Customizer Colors section. Select a premade skin for your website."
+msgstr ""
+
+#: functions/theme-options.php:138
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/theme-options.php:139
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: functions/theme-options.php:146
+msgid "Comments Text"
+msgstr ""
+
+#: functions/theme-options.php:149
+msgid "Comments Message"
+msgstr ""
+
+#: functions/theme-options.php:150
+msgid "Enter a message to be displayed next to the comments section"
+msgstr ""
+
+#: functions/theme-require-plugins.php:86
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/theme-require-plugins.php:99
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/widget-flickr.php:31
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: functions/widget-flickr.php:34
+msgid "Custom Flickr Photos"
+msgstr ""
+
+#: functions/widget-flickr.php:106 functions/widget-recentposts.php:176
+#: functions/widget-video.php:104
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-flickr.php:111
+msgid "Flickr ID:"
+msgstr ""
+
+#: functions/widget-flickr.php:116
+msgid "Number of Photos:"
+msgstr ""
+
+#: functions/widget-flickr.php:126
+msgid "Type (user or group):"
+msgstr ""
+
+#: functions/widget-flickr.php:134
+msgid "Display (random or latest):"
+msgstr ""
+
+#: functions/widget-recentposts.php:31
+msgid "A widget that displays your latest posts with a short excerpt."
+msgstr ""
+
+#: functions/widget-recentposts.php:37
+msgid "Custom Recent Posts Widget"
+msgstr ""
+
+#: functions/widget-recentposts.php:182
+msgid "Amount to show:"
+msgstr ""
+
+#: functions/widget-tweets.php:69
+msgid "Display your tweets from Twitter"
+msgstr ""
+
+#: functions/widget-tweets.php:70
+msgid "Custom Twitter Widget"
+msgstr ""
+
+#: functions/widget-tweets.php:79
+msgid "Twitter Updates"
+msgstr ""
+
+#: functions/widget-tweets.php:166
+#, php-format
+msgid ""
+"Error: Please make sure the Twitter account is <a href=\"%s\">public</a>."
+msgstr ""
+
+#: functions/widget-video.php:28
+msgid "A widget that displays your YouTube or Vimeo Video."
+msgstr ""
+
+#: functions/widget-video.php:37
+msgid "Custom Video Widget"
+msgstr ""
+
+#: functions/widget-video.php:109
+msgid "Embed Code:"
+msgstr ""
+
+#: functions/widget-video.php:114
+msgid "Short Description:"
+msgstr ""
